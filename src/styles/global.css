@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    background-color: #184E77;
+}
+
+#login {
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 1024px;
+    background-color: #184E77;
+}
+
+#top {
+    display: block;
+    margin-left: 109px;
+    margin-top: 200px;
+    font-size: 30px;
+    
+}
+
+#nome {
+    display: flex;
+    flex-direction: column;
+    margin-left: 109px;
+    margin-top: 100px;
+    font-size: 30px;  
+}
+
+#span{
+    padding-top: 100px;
+}
+
+#span2{
+    padding-top: 47px;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
